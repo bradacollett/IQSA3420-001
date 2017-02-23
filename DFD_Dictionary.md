@@ -32,16 +32,16 @@ Created and uploaded by the developer to be evaluated for vulnerabilities and li
 ### Software Name
 The name of the software uploaded by the developer and all of the open source software used.
 ### Vulnerability Results
-Results of searching a specific software name in the NIST Vulnerability Database.
+Vulnerabilities of a specific software name in the NIST Vulnerability Database.
 ### License Results
-Results of scanning a specific software for licenses.
+Licenses of specified software.
 ### Vulnerability and License Request
 Request for vulnerabilities and licenses information.
 ### Vulnerability and License Results
-Results of vulnerabilities and licenses request.
+Vulnerabilties and licenses for specified, requested, or uploaded software.
 ### Policy Request
 Request for policy information.
 ### Policy Results
-Results of policy request.
+Policy information.
 ### Policy Change
 Change to information in the policy database
